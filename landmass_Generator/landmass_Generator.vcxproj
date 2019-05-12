@@ -25,7 +25,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5AC799C1-76F1-4C97-8B04-3F9718E9227E}</ProjectGuid>
     <RootNamespace>landmassGenerator</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
